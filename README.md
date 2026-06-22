@@ -1,7 +1,7 @@
 # FunFluxL
 Integrated workflow for fungal long-read genome assembly and annotation.
 
-[![Snakemake](https://img.shields.io/badge/snakemake-≥9.14.6-brightgreen.svg)](https://snakemake.readthedocs.io/en/stable/)
+[![Snakemake](https://img.shields.io/badge/snakemake-≥9.14.6-brightgreen.svg)](https://snakemake.readthedocs.io/en/stable/) [![DOI](https://doi.org/10.5281/zenodo.20796644.svg)](https://doi.org/10.5281/zenodo.20796644)
 
 ---
 ```bash
@@ -428,9 +428,9 @@ Here's a breakdown of the sub-directories created by `FunFluxL` within the main 
 This work was supported by the [RATION project](https://www.ration-lrp.eu/project/) (Risk AssessmenT InnOvatioN for low-risk pesticides), funded by the European Union under Horizon Europe grant agreement No. [101084163](https://cordis.europa.eu/project/id/101084163).
 
 ## Citation
-If you use `FunFluxL`, cite the parental workflow:
+If you use `FunFluxL`, please cite:
 
-Antonielli, L., Brader, G., & Compant, S. (2024). FunFlux: Integrated workflow for fungal genome assembly and annotation. Zenodo. https://doi.org/10.5281/zenodo.13612159
+Antonielli, L., & Brader, G. (2026). FunFluxL: Integrated workflow for fungal long-read genome assembly and annotation. Zenodo. https://doi.org/10.5281/zenodo.20796644
 
 ## References
 01. Abarenkov, K., et al. (2024). The UNITE database for molecular identification and taxonomic communication of fungi and other eukaryotes: sequences, taxa and classifications reconsidered. Nucleic Acids Research, 52(D1), D791-D797. https://doi.org/10.1093/nar/gkad1039
