@@ -1,0 +1,9 @@
+.snakemake/
+*_output/
+logs/
+*.log
+__pycache__/
+*.py[cod]
+config/config_custom.yaml
+config/config_th2_dev.yaml
+configs/

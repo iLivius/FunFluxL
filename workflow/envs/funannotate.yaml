@@ -1,0 +1,7 @@
+name: funannotate
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - funannotate=1.8.17
+  - biopython=1.77

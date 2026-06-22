@@ -1,0 +1,7 @@
+name: interproscan
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - openjdk=11
+  - python=3.11
