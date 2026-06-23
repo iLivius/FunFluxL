@@ -2,7 +2,7 @@
 Integrated workflow for fungal long-read genome assembly and annotation.
 
 [![Snakemake](https://img.shields.io/badge/Snakemake-9.14.6%2B-brightgreen.svg)](https://snakemake.readthedocs.io/en/stable/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20796644.svg)](https://doi.org/10.5281/zenodo.20796644)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20796645.svg)](https://doi.org/10.5281/zenodo.20796645)
 
 ---
 ```bash
